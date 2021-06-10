@@ -1,0 +1,26 @@
+_repo: The-Tale-of-the-Great-Mutiny_65425
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitchett, W. H. (William Henry)
+    alias: Fitchett, William Henry
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '8564'
+    url: http://www.gutenberg.org/2009/agents/8564
+    wikipedia: https://en.wikipedia.org/wiki/William_Henry_Fitchett
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858'
+- GITenberg
+title: The Tale of the Great Mutiny
+url: http://www.gutenberg.org/ebooks/65425
